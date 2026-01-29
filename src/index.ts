@@ -1,1 +1,1 @@
-export { Foo } from "./Foo";
+export * from "./Tree";
