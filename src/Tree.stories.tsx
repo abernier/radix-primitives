@@ -1,9 +1,9 @@
-import { useMemo, useState, type ComponentProps } from "react";
+import { Component, useMemo, useState, type ComponentProps } from "react";
 
 import type { Meta, StoryObj } from "@storybook/react-vite";
 
-import * as Tree from "./Tree";
-import { flatten } from "./Tree";
+import * as Tree from ".";
+import { flatten } from ".";
 
 /**
  *
@@ -22,7 +22,6 @@ import { flatten } from "./Tree";
  */
 
 const meta: Meta<typeof Tree.Root> = {
-  title: "Tree",
   component: Tree.Root,
   args: {
     defaultOpenKeys: ["composables", "components", "Home"],
