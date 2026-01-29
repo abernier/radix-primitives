@@ -2,8 +2,6 @@
 [![](https://img.shields.io/badge/chromatic-171c23.svg?logo=chromatic)](https://www.chromatic.com/library?appId=697362825d032aaf9eea0c48&branch=main)
 [![](https://img.shields.io/badge/storybook-171c23.svg?logo=storybook)](https://main--697362825d032aaf9eea0c48.chromatic.com)
 
-# @abernier/radix-tree
-
 # Dev
 
 ## INSTALL
