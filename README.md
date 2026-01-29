@@ -1,6 +1,8 @@
-[![npm version](https://img.shields.io/npm/v/radix-tree.svg)](https://www.npmjs.com/package/radix-tree)
+[![npm version](https://img.shields.io/npm/v/@abernier/radix-tree.svg)](https://www.npmjs.com/package/@abernier/radix-tree)
 [![](https://img.shields.io/badge/chromatic-171c23.svg?logo=chromatic)](https://www.chromatic.com/library?appId=697362825d032aaf9eea0c48&branch=main)
 [![](https://img.shields.io/badge/storybook-171c23.svg?logo=storybook)](https://main--697362825d032aaf9eea0c48.chromatic.com)
+
+# @abernier/radix-tree
 
 # Dev
 
@@ -37,3 +39,15 @@ pnpm exec changeset
 ```
 
 This helps us maintain the changelog and version the package appropriately.
+
+## PUBLISHING
+
+You need to do the initial publish manually:
+
+```sh
+$ npm login
+$ npm publish --access public
+```
+
+Then add a trusted publisher on npmjs.com, following:
+https://docs.npmjs.com/trusted-publishers
