@@ -7,5 +7,15 @@ const config: StorybookConfig = {
   docs: {
     autodocs: true,
   },
+  typescript: {
+    reactDocgen: "react-docgen-typescript",
+    // reactDocgenTypescriptOptions: {
+    //   propFilter: (prop) =>
+    //     prop.parent
+    //       ? !prop.parent.fileName.includes("node_modules") || // no external props
+    //         prop.parent.fileName.includes("@radix-ui") // BUT Radix ones wanted
+    //       : true,
+    // },
+  },
 };
 export default config;

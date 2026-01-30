@@ -27,6 +27,10 @@ import * as List from ".";
 const meta: Meta<typeof List.Root> = {
   title: "primitives/List",
   component: List.Root,
+  subcomponents: {
+    Group: List.Group,
+    Item: List.Item,
+  },
   args: {
     defaultSelectedKeys: ["C"],
   },
