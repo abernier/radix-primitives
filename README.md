@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/chromatic-171c23.svg?logo=chromatic)](https://www.chromatic.com/library?appId=697b1f722390b05fb8c0029c&branch=main)
-[![](https://img.shields.io/badge/storybook-171c23.svg?logo=storybook)](https://main--697b1f722390b05fb8c0029c.chromatic.com)
 
 # radix-primitives
 
