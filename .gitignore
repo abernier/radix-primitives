@@ -2,5 +2,6 @@ node_modules
 dist
 *storybook.log
 storybook-static
+*.tsbuildinfo
 
 src/stories

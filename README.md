@@ -1,6 +1,14 @@
-[![npm version](https://img.shields.io/npm/v/@abernier/radix-tree.svg)](https://www.npmjs.com/package/@abernier/radix-tree)
 [![](https://img.shields.io/badge/chromatic-171c23.svg?logo=chromatic)](https://www.chromatic.com/library?appId=697b1f722390b05fb8c0029c&branch=main)
 [![](https://img.shields.io/badge/storybook-171c23.svg?logo=storybook)](https://main--697b1f722390b05fb8c0029c.chromatic.com)
+
+# radix-primitives
+
+A monorepo containing radix primitives: tree and list components.
+
+## Workspaces
+
+- [radix-tree](./packages/radix-tree) - A radix tree component
+- [radix-list](./packages/radix-list) - A radix list component
 
 # Dev
 

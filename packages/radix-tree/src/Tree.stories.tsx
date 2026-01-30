@@ -22,6 +22,7 @@ import { flatten } from ".";
  */
 
 const meta: Meta<typeof Tree.Root> = {
+  title: "primitives/Tree",
   component: Tree.Root,
   args: {
     defaultOpenKeys: ["composables", "components", "Home"],
