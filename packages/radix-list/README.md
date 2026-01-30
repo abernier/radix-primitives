@@ -1,10 +1,8 @@
-# @abernier/radix-list
+[![npm version](https://img.shields.io/npm/v/@abernier/radix-list.svg)](https://www.npmjs.com/package/@abernier/radix-list)
 
-A radix list component (coming soon).
+# radix-list
 
-## Status
-
-This package is currently a placeholder. Implementation is planned for future releases.
+A radix list component.
 
 ## Development
 
