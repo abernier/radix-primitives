@@ -4,8 +4,8 @@
   "description": "A radix list",
   "keywords": [
     "react",
-    "component",
-    "typescript"
+    "radix",
+    "listbox"
   ],
   "exports": {
     ".": {
@@ -13,14 +13,14 @@
       "import": "./dist/index.js"
     }
   },
-  "homepage": "https://github.com/abernier/radix-tree",
+  "homepage": "https://github.com/abernier/radix-primitives/tree/main/packages/radix-list",
   "bugs": {
-    "url": "https://github.com/abernier/radix-tree/issues"
+    "url": "https://github.com/abernier/radix-primitives/issues"
   },
   "author": "abernier",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abernier/radix-tree.git"
+    "url": "git+https://github.com/abernier/radix-primitives.git"
   },
   "license": "MIT",
   "files": [
