@@ -12,14 +12,14 @@
       "import": "./dist/index.js"
     }
   },
-  "homepage": "https://github.com/abernier/radix-primitives/tree/main/packages/react-foo",
+  "homepage": "https://github.com/abernier/tpl-react-foo-bar/tree/main/packages/react-foo",
   "bugs": {
-    "url": "https://github.com/abernier/radix-primitives/issues"
+    "url": "https://github.com/abernier/tpl-react-foo-bar/issues"
   },
   "author": "abernier",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abernier/radix-primitives.git"
+    "url": "git+https://github.com/abernier/tpl-react-foo-bar.git"
   },
   "license": "MIT",
   "files": [

@@ -12,14 +12,14 @@
       "import": "./dist/index.js"
     }
   },
-  "homepage": "https://github.com/abernier/radix-primitives/tree/main/packages/react-bar",
+  "homepage": "https://github.com/abernier/tpl-react-foo-bar/tree/main/packages/react-bar",
   "bugs": {
-    "url": "https://github.com/abernier/radix-primitives/issues"
+    "url": "https://github.com/abernier/tpl-react-foo-bar/issues"
   },
   "author": "abernier",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abernier/radix-primitives.git"
+    "url": "git+https://github.com/abernier/tpl-react-foo-bar.git"
   },
   "license": "MIT",
   "files": [
@@ -27,9 +27,12 @@
   ],
   "type": "module",
   "devDependencies": {
+    "@arethetypeswrong/cli": "*",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
-    "typescript": "^5.5.4"
+    "tsup": "*",
+    "typescript": "^5.5.4",
+    "vitest": "*"
   },
   "scripts": {
     "build": "tsup",
